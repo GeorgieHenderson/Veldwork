@@ -16,9 +16,8 @@ Significance threshold p < 0.10.
 
 | File | Description |
 |------|-------------|
-| `analysis.py` | Full Python script |
-| `data/google_trends.csv` | Weekly Google Trends data |
-| `data/jse_prices.csv` | Weekly adjusted closing prices |
+| `google_trends_signal.py` | Full Python script |
+| `results_chart.png` | Reslts chart |
 
 ## Full write-up
 [Research Note 001: Does Google Search Predict JSE Retail Returns?]
